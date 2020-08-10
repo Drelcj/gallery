@@ -26,6 +26,10 @@ body{
   margin: auto;
   padding: 0 1.5rem;
 }
+p{
+  color: white;
+  font-size: 3rem;
+}
 .image-gallery{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -91,7 +95,7 @@ body{
 }
 .img-3{
   grid-area: img-3;
-  background-image: url(../Image-gallery/img3.jpg);
+  background-image: url("https://res.cloudinary.com/drelcj/image/upload/v1597096998/img31_zgm0yf.jpg");
 }
 
 .img-4{
